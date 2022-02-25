@@ -1,4 +1,4 @@
-# yandexdataschool-nlp-course
+# NLP course (YSDA)
 These homework assignments are from a publicly available [YSDA nlp course](https://github.com/yandexdataschool/nlp_course)
 
 | Title               | Topic                                                                  | 
